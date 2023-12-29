@@ -2,7 +2,7 @@
     <img src="https://www.faforever.com/images/logos/faflogo.svg" alt="FAForever logo" title="FAForever" align="right" height="60" />
 </a>
 
-# FAForever Workflow Integration for Procedural Software
+# Workflow Integration for Procedural Software
 
 This repository provides a script to enhance the workflow between procedural software and a map editor for the game Supreme Commander: Forged Alliance. The script assists the user in converting the output of procedurally generated content into a format acceptable by the map editor. This effectively eliminates the need for tools such as Photoshop or Gimp that are usually used to manually convert files into the correct format.
 
