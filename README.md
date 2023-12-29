@@ -50,7 +50,7 @@ Use the `png` format for all your output. The encoding reduces the file size, an
 
 ### For Gaea
 
-<img src="./images/gaea-build-manager.png" alt="Gaea Build Manager" title="Build Manager" align="right" height="400" />
+<img src="./images/gaea-build-manager.png" alt="Gaea Build Manager" title="Build Manager" align="right" height="360" />
 
 In the `Build Manager` and specifically the `Files to save` section:
 
