@@ -6,11 +6,13 @@
 
 This repository provides a script to enhance the workflow between procedural software and a map editor for the game Supreme Commander: Forged Alliance. The script assists the user in converting the output of procedurally generated content into a format acceptable by the map editor. This effectively eliminates the need for tools such as Photoshop or Gimp that are usually used to manually convert files into the correct format.
 
-## Software Requirements
+## Requirements
 
 - [Bash interpreter](https://git-scm.com/downloads): This tool allows running the conversion script. Any recent version will suffice.
 - [ImageMagick](https://imagemagick.org/): This tool performs all the heavy lifting. It provides a command line interface that we can use to convert the textures into the correct format. The conversion script is developed using the Windows binary release version ImageMagick-7.1.1-24-Q16-HDRI-x64-dll.exe.
 - [FAForever map editor](https://github.com/FAForever/FAForeverMapEditor): This tool allows manipulating the Supreme Commander: Forged Alliance map binary. We can import the output of the conversion script and immediately view the result.
+
+There are no additional software or hardware requirements.
 
 ## Intended Workflow
 
