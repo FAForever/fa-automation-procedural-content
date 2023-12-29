@@ -1,0 +1,8 @@
+# procedural content
+procedural-decals/*
+procedural-heightmaps/*
+procedural-masks/*
+
+# build files of Gaea
+*.log
+*.txt
